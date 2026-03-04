@@ -167,3 +167,5 @@ Diferenciadores clave
 2.	Portafolio técnico con proyectos reales full stack, con repositorios y documentación que muestran habilidades tanto en frontend como backend.
 
 Diseño de figma: https://www.figma.com/make/RFTohgn0deuGxCkXujYXPO/Curriculum-Vitae-Design?t=Ss4vFg5NsdSD1oGs-1
+
+ENLACE A SITIO PUBLICADO: https://randallarauzcubilla.github.io/Actividad-1/
